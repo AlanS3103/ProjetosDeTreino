@@ -1,16 +1,15 @@
 ## Pequenos projetos em HTML para treinar :)
+__Possiveis projetos:__
+##
 
-    Possiveis projetos:
-        *Página de um produto 
-            Prioridades: 
-                Descrição, imagens, avaliações, valor, frete;
+__Página de venda de um produto__ <br> 
+__-Prioridades:__ Descrição, imagens, avaliações, valor, frete;<br>
+__-Opcionais:__ Recomendação de outros produtos, perguntas e resposta, alterar quantidade;
+<br>
 
-            Opcionais:
-            Recomendação de outros produtos, perguntas e resposta, alterar quantidade;
+##
 
-        *Blog
-            Prioridades:
-                Página de login/cadastro de úsuario, página com artigo, página home, exibir dados de quem publicou o artigo
-
-            Opcionais:
-                Área de comentários, 
+__Blog__<br>
+__-Prioridades:__ Página de login/cadastro de úsuario, página com artigo, página home, exibir dados de quem publicou o artigo<br>
+__-Opcionais:__ Área de comentários <br><br>
+##
