@@ -1,4 +1,4 @@
-## Pequenos projetos para treinar :)
+## Pequenos projetos para treinar :D
 __Possiveis projetos:__
 ##
 
