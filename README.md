@@ -1,4 +1,4 @@
-## Pequenos projetos em HTML para treinar :)
+## Pequenos projetos para treinar :)
 __Possiveis projetos:__
 ##
 
