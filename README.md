@@ -1,4 +1,6 @@
 ## Pequenos projetos para treinar :D
+__Tecnologias: Python, HTML, CSS, C e C++
+
 __Possiveis projetos:__
 ##
 
