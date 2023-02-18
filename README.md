@@ -1,8 +1,11 @@
 ## Pequenos projetos para treinar :D
 __Tecnologias__: Python, HTML, CSS, C e C++
 
+
 __Possiveis projetos:__
 ##
+
+
 
 __Página de venda de um produto__ <br> 
 __-Prioridades:__ Descrição, imagens, avaliações, valor, frete;<br>
