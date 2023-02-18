@@ -14,3 +14,4 @@ __Blog__<br>
 __-Prioridades:__ Página de login/cadastro de úsuario, página com artigo, página home, exibir dados de quem publicou o artigo<br>
 __-Opcionais:__ Área de comentários <br><br>
 ##
+=======
