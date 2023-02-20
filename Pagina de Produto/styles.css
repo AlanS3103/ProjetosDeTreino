@@ -43,22 +43,18 @@ nav{
 /* Product Basics Style */
 .basic_content{
     background-color: antiquewhite;
-    position: relative;
-    float: left;
+    clear: left;
+    
 }
 
 .basic_img{
     background-color: blueviolet;
-    position: relative;
-    left: 40px;
     float: left;
     width: 500px;
 }
 
 .basic_informations{
     background-color: chartreuse;
-    position: relative;
-    left: 60px;
     float: left;
     width: 500px;
 }
@@ -67,16 +63,12 @@ nav{
 /* Product Description Style */
 .description_content{
     background-color: aquamarine;
-    position: relative;
-    float: left;
+    clear: left;
 }
 
 .description{
     background-color: burlywood;
-    position: relative;
-    left: 40px;
     width: 500px;
-    float: left;
 }
 
 /*
@@ -92,14 +84,11 @@ nav{
 /* Comments Session Style */
 .comments_content{
     background-color: darkseagreen;
-    position: relative;
-    float: left;
+    clear: left;
 }
 
 .comments{
     background-color: cadetblue;
-    position: relative;
-    left: 40px;
     width: 500px;
 }
 
