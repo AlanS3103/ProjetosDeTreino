@@ -1,0 +1,113 @@
+/*reset margin and padding*/ 
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+/* Index Page */
+/* Header Style */
+header{
+    background-color: aqua;
+    text-align: center;   
+}
+
+nav{
+    background-color: blue;
+    text-align: center;
+}
+
+/* Content */
+.content{
+    background-color: beige;
+    position: relative;
+    top: 40px;
+}
+
+/* Content */
+.content1{
+    background-color: brown;
+    position: relative;
+    left: 40px;
+    width: 500px;
+}
+
+/* Content */
+.content2{
+    background-color: coral;
+    position: relative;
+    left: 60px;
+    width: 500px;
+}
+
+/* Product Page Area */
+/* Product Basics Style */
+.basic_content{
+    background-color: antiquewhite;
+    position: relative;
+    float: left;
+}
+
+.basic_img{
+    background-color: blueviolet;
+    position: relative;
+    left: 40px;
+    float: left;
+    width: 500px;
+}
+
+.basic_informations{
+    background-color: chartreuse;
+    position: relative;
+    left: 60px;
+    float: left;
+    width: 500px;
+}
+
+
+/* Product Description Style */
+.description_content{
+    background-color: aquamarine;
+    position: relative;
+    float: left;
+}
+
+.description{
+    background-color: burlywood;
+    position: relative;
+    left: 40px;
+    width: 500px;
+    float: left;
+}
+
+/*
+.content2{
+    background-color: darkgray;
+    position: relative;
+    left: 60px;
+    width: 500px;
+}
+*/
+
+
+/* Comments Session Style */
+.comments_content{
+    background-color: darkseagreen;
+    position: relative;
+    float: left;
+}
+
+.comments{
+    background-color: cadetblue;
+    position: relative;
+    left: 40px;
+    width: 500px;
+}
+
+/*
+.content2{
+    background-color: darkgray;
+    position: relative;
+    left: 60px;
+    width: 500px;
+}
+*/
