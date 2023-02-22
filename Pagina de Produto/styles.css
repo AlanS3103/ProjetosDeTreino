@@ -47,15 +47,17 @@ nav{
     
 }
 
+img{
+    width: 300px;
+}
+
 .basic_img{
     background-color: blueviolet;
-    float: left;
     width: 500px;
 }
 
 .basic_informations{
     background-color: chartreuse;
-    float: left;
     width: 500px;
 }
 
