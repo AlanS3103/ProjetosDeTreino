@@ -41,24 +41,30 @@ nav{
 
 /* Product Page Area */
 /* Product Basics Style */
+
+
 .basic_content{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0px 10%;
     background-color: antiquewhite;
     clear: left;
     
 }
 
 img{
-    width: 300px;
+    width: 500px;
 }
 
 .basic_img{
+    position: relative;
     background-color: blueviolet;
-    width: 500px;
 }
 
 .basic_informations{
     background-color: chartreuse;
-    width: 500px;
 }
 
 
