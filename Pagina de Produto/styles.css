@@ -40,22 +40,25 @@ nav{
 }
 
 /* Product Page Area */
+.main{
+    margin: 0px 10%;
+    text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
 /* Product Basics Style */
-
-
 .basic_content{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     flex-wrap: wrap;
-    margin: 0px 10%;
     background-color: antiquewhite;
-    clear: left;
-    
+    margin: 0px 20%;
 }
 
 img{
-    width: 500px;
+    min-width: 100px;
+    max-width: 400px;
 }
 
 .basic_img{
