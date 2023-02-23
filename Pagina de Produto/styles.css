@@ -41,6 +41,7 @@ nav{
 
 /* Product Page Area */
 .main{
+    background-color: #fdffd0;
     margin: 0px 10%;
     text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -57,8 +58,9 @@ nav{
 }
 
 img{
+    display: block;
     min-width: 100px;
-    max-width: 400px;
+    max-width: 300px;
 }
 
 .basic_img{
@@ -68,6 +70,7 @@ img{
 
 .basic_informations{
     background-color: chartreuse;
+    margin-left: 20px;
 }
 
 
@@ -75,11 +78,12 @@ img{
 .description_content{
     background-color: aquamarine;
     clear: left;
+    
 }
 
 .description{
     background-color: burlywood;
-    width: 500px;
+    margin: 0px 10px 0px 20px;
 }
 
 /*
@@ -95,12 +99,11 @@ img{
 /* Comments Session Style */
 .comments_content{
     background-color: darkseagreen;
-    clear: left;
 }
 
 .comments{
     background-color: cadetblue;
-    width: 500px;
+    margin: 0px 10px 0px 20px;
 }
 
 /*
