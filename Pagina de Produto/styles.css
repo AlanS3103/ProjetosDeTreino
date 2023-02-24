@@ -47,6 +47,7 @@ nav{
     -webkit-text-size-adjust: 100%;
 }
 
+
 /* Product Basics Style */
 .basic_content{
     display: flex;
@@ -75,6 +76,20 @@ img{
 
 
 /* Product Description Style */
+.nav_description > a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.nav_description > a:hover{
+    color: cadetblue;
+    text-decoration: double;
+}
+
+.nav_description{
+    background-color: gray;
+}
+
 .description_content{
     background-color: aquamarine;
     clear: left;
