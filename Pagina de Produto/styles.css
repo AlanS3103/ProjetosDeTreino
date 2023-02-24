@@ -76,14 +76,28 @@ img{
 
 
 /* Product Description Style */
-.nav_description > a{
+
+ul{
+    display: flex;
+}
+li {
+    list-style-type: none;
+    display: inline-flex;
+    padding: 10px 15px;
+    font-size: 15px;
+    background-color: #404040;
+    margin-right: 2px;
+}
+
+li > a{
     color: aliceblue;
     text-decoration: none;
 }
 
-.nav_description > a:hover{
-    color: cadetblue;
-    text-decoration: double;
+li:hover{
+    color: black;
+    background-color: brown;
+    font-style: italic;
 }
 
 .nav_description{
