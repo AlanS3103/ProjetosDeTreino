@@ -8,7 +8,9 @@
 /* Header Style */
 header{
     background-color: aqua;
-    text-align: center;   
+    text-align: center;
+    position: sticky;
+    top: 0;
 }
 
 nav{
@@ -49,7 +51,7 @@ nav{
 
 
 /* Product Basics Style */
-.basic_content{
+#basic_content{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -65,7 +67,6 @@ img{
 }
 
 .basic_img{
-    position: relative;
     background-color: blueviolet;
 }
 
@@ -102,9 +103,11 @@ li:hover{
 
 .nav_description{
     background-color: gray;
+    position: sticky;
+    top: 36px;
 }
 
-.description_content{
+#description_content{
     background-color: aquamarine;
     clear: left;
     
@@ -126,7 +129,7 @@ li:hover{
 
 
 /* Comments Session Style */
-.comments_content{
+#comments_content{
     background-color: darkseagreen;
 }
 
