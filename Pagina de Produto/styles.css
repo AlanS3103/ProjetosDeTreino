@@ -17,11 +17,12 @@ header{
     text-align: center;
     position: sticky;
     top: 0;
+    z-index: 2;
 }
 
 .navbar img{
     float: left;
-    width: 90px;
+    width: 100px;
     
 }
 
@@ -113,7 +114,8 @@ img{
 .nav_description{
     background-color: gray;
     position: sticky;
-    top: 47px;
+    top: 0;
+    z-index: 1;
 }
 
 .nav_description ul{
