@@ -9,6 +9,7 @@
 nav{
     position: sticky;
     top: 0;
+    z-index: 2;
 }
 
 .navbar{
@@ -93,9 +94,15 @@ nav{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    flex-wrap: wrap;
     background-color: antiquewhite;
     margin: 0px 20%;
+}
+
+.product_price{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: brown;
+    
 }
 
 .product_img{
@@ -104,13 +111,9 @@ nav{
     max-width: 300px;
 }
 
-.basic_img{
-    background-color: blueviolet;
-}
-
 .basic_informations{
     background-color: chartreuse;
-    margin-left: 20px;
+    
 }
 
 
@@ -120,7 +123,7 @@ nav{
 .nav_description{
     background-color: gray;
     position: sticky;
-    top: 0;
+    top: 55px;
     z-index: 1;
 }
 
